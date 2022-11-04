@@ -1,0 +1,40 @@
+#start-btn
+{
+    width: 5%;
+    font-weight: bold;
+    
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+#h4 {
+    color: red;
+}
+#h1 {
+    color: black;
+    font-weight: bold;
+}
+#body {
+    background-color:yellow;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
